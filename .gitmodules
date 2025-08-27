@@ -1,0 +1,6 @@
+[submodule "Qwen-Image"]
+	path = Qwen-Image
+	url = https://github.com/QwenLM/Qwen-Image
+[submodule "flux-kontext"]
+	path = flux-kontext
+	url = https://github.com/black-forest-labs/flux
